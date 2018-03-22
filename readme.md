@@ -1,6 +1,6 @@
 # Remaking Dave
 -----
-This is a project where me and some of our friends are trying to make something similar to [Dangerous Dave](https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=dangerous+dave+wiki&*), using [pygame](http://www.pygame.org/lofi.html). You are most welcome to participate in this project and learn new things along with us, all you need to know is a bit of Python(loops, functions, classes).
+This is a project where me and some of our friends are trying to make something similar to [Dangerous Dave](https://www.google.co.in/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=dangerous+dave+wiki&*), using [pygame](http://www.pygame.org/lofi.html). You are most welcome to participate in this project and learn new things along with us, all you need to know is a bit of Python(loops, functions, classes).Good bhai
 
 ## Setting up the enviornment
 ----
